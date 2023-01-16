@@ -8,3 +8,6 @@ new 2
 6
 7
 Editing this file in the remote repository and pulling it to the local machine and lets check the new changes.
+
+This line is getting edited by a new Branch from the local machine branch called MondayBranch.
+Let see it by pushing it from the terminal and by merging it from remote repo
